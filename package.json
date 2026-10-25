@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luworks/apify.git"
+    "url": "git+https://github.com/luworks/apify-self-scrape.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/luworks/apify/issues"
+    "url": "https://github.com/luworks/apify-self-scrape/issues"
   },
-  "homepage": "https://github.com/luworks/apify#readme"
+  "homepage": "https://github.com/luworks/apify-self-scrape#readme"
 }
