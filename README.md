@@ -69,3 +69,8 @@ The generated CSV file contains the following fields:
 - The scraper runs in headed browser mode, showing the browser interface during the process
 - The complete scraping process may take several minutes, depending on network speed and total number of records
 - The script includes automatic detection to stop scraping when no new content is loaded after multiple scrolls
+
+## License
+
+The source code is licensed under the [MIT License](LICENSE).
+Scraped data and third-party content retain their respective rights; this license does not grant rights to redistribute them.
